@@ -1,0 +1,151 @@
+C:\Users\huy44\OneDrive\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\02_Recorder\DemoVideoRecorder\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe.config
+C:\Users\huy44\OneDrive\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\02_Recorder\DemoVideoRecorder\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe
+C:\Users\huy44\OneDrive\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\02_Recorder\DemoVideoRecorder\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.pdb
+C:\Users\huy44\OneDrive\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\02_Recorder\DemoVideoRecorder\DemoVideoRecorder\bin\Debug\OzekiSDK.dll
+C:\Users\huy44\OneDrive\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\02_Recorder\DemoVideoRecorder\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.AssemblyReference.cache
+C:\Users\huy44\OneDrive\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\02_Recorder\DemoVideoRecorder\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.SuggestedBindingRedirects.cache
+C:\Users\huy44\OneDrive\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\02_Recorder\DemoVideoRecorder\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.MainForm.resources
+C:\Users\huy44\OneDrive\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\02_Recorder\DemoVideoRecorder\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.GenerateResource.cache
+C:\Users\huy44\OneDrive\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\02_Recorder\DemoVideoRecorder\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CoreCompileInputs.cache
+C:\Users\huy44\OneDrive\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\02_Recorder\DemoVideoRecorder\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CopyComplete
+C:\Users\huy44\OneDrive\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\02_Recorder\DemoVideoRecorder\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.exe
+C:\Users\huy44\OneDrive\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\02_Recorder\DemoVideoRecorder\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.pdb
+C:\Users\huy44\OneDrive\Documents\Ozeki\Ozeki SDK\Examples\Camera\03_IPCamera\02_Recorder\DemoVideoRecorder\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.Properties.Resources.resources
+C:\Users\Hiimme\Downloads\drive-download-20230530T125704Z-001\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.AssemblyReference.cache
+C:\Users\Hiimme\Downloads\drive-download-20230530T125704Z-001\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hiimme\Downloads\drive-download-20230530T125704Z-001\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.MainForm.resources
+C:\Users\Hiimme\Downloads\drive-download-20230530T125704Z-001\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.Properties.Resources.resources
+C:\Users\Hiimme\Downloads\drive-download-20230530T125704Z-001\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.GenerateResource.cache
+C:\Users\Hiimme\Downloads\drive-download-20230530T125704Z-001\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CoreCompileInputs.cache
+C:\Users\Hiimme\Downloads\drive-download-20230530T125704Z-001\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.exe
+C:\Users\Hiimme\Downloads\drive-download-20230530T125704Z-001\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.pdb
+C:\Users\Hiimme\Downloads\drive-download-20230530T125704Z-001\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe.config
+C:\Users\Hiimme\Downloads\drive-download-20230530T125704Z-001\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe
+C:\Users\Hiimme\Downloads\drive-download-20230530T125704Z-001\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.pdb
+C:\Users\Hiimme\Downloads\drive-download-20230530T125704Z-001\DemoVideoRecorder\bin\Debug\OzekiSDK.dll
+C:\Users\Hiimme\Downloads\drive-download-20230530T125704Z-001\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CopyComplete
+D:\Project\Du_An\Camera2\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe.config
+D:\Project\Du_An\Camera2\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe
+D:\Project\Du_An\Camera2\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.pdb
+D:\Project\Du_An\Camera2\DemoVideoRecorder\bin\Debug\OzekiSDK.dll
+D:\Project\Du_An\Camera2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.AssemblyReference.cache
+D:\Project\Du_An\Camera2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.SuggestedBindingRedirects.cache
+D:\Project\Du_An\Camera2\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.MainForm.resources
+D:\Project\Du_An\Camera2\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.Properties.Resources.resources
+D:\Project\Du_An\Camera2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.GenerateResource.cache
+D:\Project\Du_An\Camera2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CoreCompileInputs.cache
+D:\Project\Du_An\Camera2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CopyComplete
+D:\Project\Du_An\Camera2\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.exe
+D:\Project\Du_An\Camera2\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.pdb
+D:\Project\Du_An\Camera_2v1 - Copy\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe.config
+D:\Project\Du_An\Camera_2v1 - Copy\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe
+D:\Project\Du_An\Camera_2v1 - Copy\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.pdb
+D:\Project\Du_An\Camera_2v1 - Copy\DemoVideoRecorder\bin\Debug\OzekiSDK.dll
+D:\Project\Du_An\Camera_2v1 - Copy\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.AssemblyReference.cache
+D:\Project\Du_An\Camera_2v1 - Copy\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.SuggestedBindingRedirects.cache
+D:\Project\Du_An\Camera_2v1 - Copy\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.MainForm.resources
+D:\Project\Du_An\Camera_2v1 - Copy\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.Properties.Resources.resources
+D:\Project\Du_An\Camera_2v1 - Copy\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.GenerateResource.cache
+D:\Project\Du_An\Camera_2v1 - Copy\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CoreCompileInputs.cache
+D:\Project\Du_An\Camera_2v1 - Copy\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CopyComplete
+D:\Project\Du_An\Camera_2v1 - Copy\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.exe
+D:\Project\Du_An\Camera_2v1 - Copy\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.pdb
+D:\Project\Du_An\Camera_2v2\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe.config
+D:\Project\Du_An\Camera_2v2\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe
+D:\Project\Du_An\Camera_2v2\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.pdb
+D:\Project\Du_An\Camera_2v2\DemoVideoRecorder\bin\Debug\OzekiSDK.dll
+D:\Project\Du_An\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.AssemblyReference.cache
+D:\Project\Du_An\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.SuggestedBindingRedirects.cache
+D:\Project\Du_An\Camera_2v2\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.MainForm.resources
+D:\Project\Du_An\Camera_2v2\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.Properties.Resources.resources
+D:\Project\Du_An\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.GenerateResource.cache
+D:\Project\Du_An\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CoreCompileInputs.cache
+D:\Project\Du_An\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CopyComplete
+D:\Project\Du_An\Camera_2v2\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.exe
+D:\Project\Du_An\Camera_2v2\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.pdb
+G:\Du an camera\Camera_2v2\Camera_2v2\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe.config
+G:\Du an camera\Camera_2v2\Camera_2v2\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe
+G:\Du an camera\Camera_2v2\Camera_2v2\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.pdb
+G:\Du an camera\Camera_2v2\Camera_2v2\DemoVideoRecorder\bin\Debug\OzekiSDK.dll
+G:\Du an camera\Camera_2v2\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.AssemblyReference.cache
+G:\Du an camera\Camera_2v2\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.SuggestedBindingRedirects.cache
+G:\Du an camera\Camera_2v2\Camera_2v2\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.MainForm.resources
+G:\Du an camera\Camera_2v2\Camera_2v2\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.Properties.Resources.resources
+G:\Du an camera\Camera_2v2\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.GenerateResource.cache
+G:\Du an camera\Camera_2v2\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CoreCompileInputs.cache
+G:\Du an camera\Camera_2v2\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CopyComplete
+G:\Du an camera\Camera_2v2\Camera_2v2\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.exe
+G:\Du an camera\Camera_2v2\Camera_2v2\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.pdb
+G:\Du an camera\Camera_2v2\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe.config
+G:\Du an camera\Camera_2v2\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe
+G:\Du an camera\Camera_2v2\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.pdb
+G:\Du an camera\Camera_2v2\DemoVideoRecorder\bin\Debug\OzekiSDK.dll
+G:\Du an camera\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.AssemblyReference.cache
+G:\Du an camera\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.SuggestedBindingRedirects.cache
+G:\Du an camera\Camera_2v2\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.MainForm.resources
+G:\Du an camera\Camera_2v2\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.Properties.Resources.resources
+G:\Du an camera\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.GenerateResource.cache
+G:\Du an camera\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CoreCompileInputs.cache
+G:\Du an camera\Camera_2v2\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CopyComplete
+G:\Du an camera\Camera_2v2\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.exe
+G:\Du an camera\Camera_2v2\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.pdb
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe.config
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.pdb
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\bin\Debug\OzekiSDK.dll
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.AssemblyReference.cache
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.SuggestedBindingRedirects.cache
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.MainForm.resources
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.Properties.Resources.resources
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.GenerateResource.cache
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CoreCompileInputs.cache
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CopyComplete
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.exe
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.pdb
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\obj\Debug\Cam_App.formDangKy.resources
+D:\Project\Du_An\Camera_2v3\DemoVideoRecorder\obj\Debug\Cam_App.formDangNhap.resources
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe.config
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.pdb
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\bin\Debug\OzekiSDK.dll
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.AssemblyReference.cache
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.SuggestedBindingRedirects.cache
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\obj\Debug\Cam_App.formDangKy.resources
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\obj\Debug\Cam_App.formDangNhap.resources
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.MainForm.resources
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.Properties.Resources.resources
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.GenerateResource.cache
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CoreCompileInputs.cache
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CopyComplete
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.exe
+D:\Project\Du_An\Camera_2v4\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.pdb
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe.config
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.pdb
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\bin\Debug\OzekiSDK.dll
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.AssemblyReference.cache
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.SuggestedBindingRedirects.cache
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\obj\Debug\Cam_App.formDangKy.resources
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\obj\Debug\Cam_App.formDangNhap.resources
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.MainForm.resources
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.Properties.Resources.resources
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.GenerateResource.cache
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CoreCompileInputs.cache
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CopyComplete
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.exe
+C:\Users\huy44\Downloads\Camera_2v4\Camera_2v4\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.pdb
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe.config
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.exe
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\bin\Debug\03_Onvif_Network_Video_Recorder.pdb
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\bin\Debug\OzekiSDK.dll
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.AssemblyReference.cache
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.SuggestedBindingRedirects.cache
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\obj\Debug\Cam_App.formDangKy.resources
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\obj\Debug\Cam_App.formDangNhap.resources
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.MainForm.resources
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\obj\Debug\_03_Onvif_Network_Video_Recorder.Properties.Resources.resources
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.GenerateResource.cache
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CoreCompileInputs.cache
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\obj\Debug\DemoVideoRecorder.csproj.CopyComplete
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.exe
+D:\LTHSK\Camera_2v4\DemoVideoRecorder\obj\Debug\03_Onvif_Network_Video_Recorder.pdb
